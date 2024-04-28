@@ -1,5 +1,3 @@
-import './index.css';
-
 import React, { Suspense } from 'react';
 import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 
